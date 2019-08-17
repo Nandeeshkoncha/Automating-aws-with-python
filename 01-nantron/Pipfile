@@ -14,6 +14,7 @@ ipython = "*"
 pycodestyle = "*"
 pydocstyle = "*"
 pylint = "*"
+pyflakes = "*"
 
 [requires]
 python_version = "3.7"
