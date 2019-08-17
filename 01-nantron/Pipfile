@@ -7,9 +7,13 @@ name = "pypi"
 "boto3" = "*"
 click = "*"
 botocore = "*"
+pathlib = "*"
 
 [dev-packages]
 ipython = "*"
+pycodestyle = "*"
+pydocstyle = "*"
+pylint = "*"
 
 [requires]
 python_version = "3.7"
